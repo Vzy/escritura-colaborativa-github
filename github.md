@@ -39,6 +39,7 @@ Añadimos un nuevo documento y hacemos un commit
 	$ git commit -m "probando"
 
 Ahora podemos actualizar ya la nueva rama
+
 	$ git push -u origin nombre-rama-nueva
 
 Crearemos ramas para cada cambio significativo y haremos un push cada vez para que se actualice en github

@@ -7,13 +7,12 @@ Luego, desde la carpeta del proyecto hacemos lo siguiente
 	$ git remote add origin https://github.com/xabier/project1.git
 se añade un origen "origin" que es la url del repositorio en github
 luego escribimos
- 	$ git push -u origin master
+	$ git push -u origin master
 con esto subimos los contenidos del repositorio local (master) al de github (origin)
 
 ## Comenzar de cero con un proyecto de github y descargarlo a tu directorio local
 
 Al hacer los siguiente en la línea de comando se creará la carpeta correspondiente:
-
 	$ git clone https://github.com/xabier/escritura-colaborativa-github.git
 
 ## Forkear repositorio

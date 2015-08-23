@@ -11,8 +11,8 @@ Instalar
 
 Configurar tu identidad en git
 
- 	$ git config --global user.name "johndoe"
- 	$ git config --global user.email johndoe@example.com
+ 	$ git config --global user.name "tunombre"
+ 	$ git config --global user.email "tu@email.com"
 
 Crear repositorio local nuevo
 

@@ -46,7 +46,7 @@ Crearemos ramas para cada cambio significativo y haremos un push cada vez para q
 
 Solicitar un pull request (una petición de aceptar nuestros cambios en el repositorio original)
 
-## Actualizar tu repositorio local
+## Actualizar tu repositorio local desde github y viceversa
 
 Imagina que has realizado cambios en uno de los archivos de la web de github, ahora el problema es que no tienes en local la última versión. Para ello corremos el siguiente comando:
 
@@ -56,4 +56,8 @@ Esto nos va a bajar los cambios a nuestro repositorio local, pero aún no se han
 
      $ git pull
     
-Y así actualizamos
+Y así actualizamos nuestra versión local.
+
+Ahora, si modificamos algo en local, además de add y comitt, tenemos que subirlo de nuevo al repositorio de github. Para ello basta con hacer:
+
+     $ git push origin

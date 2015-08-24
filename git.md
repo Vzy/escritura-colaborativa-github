@@ -52,3 +52,5 @@ Voler a actualizar
  	$ git commit -m "otro comentario"
 
 NOTA: hay que hacer el git add siempre :(
+
+Ya sabemos lo básico para comenzar a usar repositorios en la red y desde allí comenzar a colaborar. 

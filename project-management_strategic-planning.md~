@@ -1,0 +1,75 @@
+
+
+
+# Project management y strategic planning
+
+## Planificación estratégica **Strategic Planning**
+
+La planificación estratégica se refiere a los procesos de identificación de objetivos, medios y acciones para llegar a alcanzarlos. Realizar una buena planificación estratégica y usar metodologías específicas de gestión de proyectos es fundamental para poder evaluar y sostener proyectos y organizaciones complejas. Existen muchas formas de hacer una planificación estratégica. 
+
+[Este pequeño tutorial](http://onstrategyhq.com/resources/how-to-write-a-strategic-plan/) sobre planificación estratégica (con un pequeño vídeo introductorio) puede ayudarte.
+
+http://www.evropa.gov.rs/evropa/ShowDocument.aspx?Type=Home&Id=525
+http://medepi.com/2013/01/29/logframe/
+http://onstrategyhq.com/tour/
+
+Aquí una lista de acciones o tareas de análisis y resultados a realizar para el buen desarrollo de una planificación estratégica:
+
+1. Diagnóstico y evaluación actual
+2. Visión (qué queremos dentro de 4 años)
+3. DAFO (interno y externo): Debilidades, Amenazas, Fortalezas y Oportunidades
+4. Contexto (necesidades, recursos, etc.)
+5. Misión
+6. Planteamiento del problema
+7. Estrategias
+8. Objetivos
+9. Acciones
+10. Calendarización
+11. Presupuestos
+12. Indicadores y evaluación.
+
+
+
+### Recursos para realizar una planificación estratégica
+
+
+
+
+## Gestión de proyectos **Project management**
+
+La gestión de proyectos no lleva 
+
+### Métodos ágiles: Scrum
+
+Desde hace tiempo lleva poniéndose en marcha lo que se llama *desarrollo ágil*, se define en contraposición a al desarrollo clásico de proyectos en los que los objetivos de marcan a largo plazo y se define la estrategia y se implementa en periodos largos (meses o años). El desarrollo ágil cuenta con ciclos muy cortos de desarrollo, siempre revisables. Existen varios modelos desarrollo ágil, uno de los más conocidos y efectivos es [Scrum](https://es.wikipedia.org/wiki/Scrum). [Este documento](http://jeffsutherland.com/ScrumPapers.pdf) incluye una colección de textos (entre ellos una descripción del método Scrum) escritor por su inventor. Muchas herramientas de software para la gestión de proyectos están basadas en métodos ágiles e incluyen ciclos de desarrollo, calendarios, etc. adaptados a las metodologías ágiles.
+
+### Herramientas para Gestión de proyectos
+
+
+Listados de software para gestión de proyectos:
+
+* Una lista gigantesca de software de gestión de proyectos puede encontrarse en [Capterra](http://www.capterra.com/) y también en [Project insider](http://project-management.softwareinsider.com)
+* [Lista de los 6 mejores sistemas de gestión de proyectos de software libre de código abierto.](http://blog.capterra.com/free-open-source-project-management-software/)
+* [Top 5 open source project management tools in 2014](https://opensource.com/business/14/1/top-project-management-tools-2014)
+* [Top 5 open source project management tools in 2015](https://opensource.com/business/15/1/top-project-management-tools-2015)
+
+Se estas listas hemos seleccionado los siguientes:
+* [Agilefant](http://agilefant.com/) basada en metodologías ágiles, es enteramente software libre, muchos gráficos de evolución, una interesante organización de procesos en formato "historias", cuantifica además por horas de trabajo (medida del esfuerzo), etc. 
+* [OrangeScrum](https://www.orangescrum.com): código libre, móvil, tareas, basado en scrum, reports, parece muy completo.
+* [Tuleap](https://www.tuleap.org): muy completo, permite todo tipo de filosofías de gestión de proyectos.
+
+Otros a tener en cuenta:
+* [2-plan](http://2-plan.com/): Un sistema ingrado, de escritorio, muy completo.
+* [Ganttproject](http://www.ganttproject.biz): Es una herramientas de escritorio, permite una planficación compleja, creando Gantt-charts. Aquí un [vídeo explicativo](https://youtu.be/5rHCSa5ad34). Tiene buena pinta, se crean tareas e hitos y se organizan en el tiempo atribuídas a personas o grupos. Es bastante completo. Te instalas el cliente y puedes empezar a usarlo, pero tienes que instalar en un server (o buscar alguno que te de el servicio) para que funcione colaborativamente. Exporta iCalc y también importa y exporta desde Microsoft Project.
+* [MyCollab](https://community.mycollab.com/): es más que gestión de proyectos, permite la escritura colaborativa e intermabio de archivos.
+* [Trello](https://trello.com/): visual, flexible, fácil de usar, móvil, **pero no es libre**, aunque es gratis.
+* [Asana](https://asana.com/): Lo usa mucha gente, viene a sustituir el correo, gratis hasta 15 usuarios, web, móvil. No es software libre, la usan empresas molonas tipo AirBnB o Uber.
+* [Odoo](https://www.odoo.com): lo usa Podemos, es más que un project manager, antiguo OpenERP.
+* [Redmine](https://www.redmine.org/): Un clásico, php.
+* [EasyRedmine](https://www.easyredmine.com)
+* [ProyectLibre](http://www.projectlibre.org/): es un sustituto compatible de Microsoft Project.
+
+
+
+
+

@@ -14,7 +14,7 @@ Lo bueno de estos lenguajes de marcas, es que sólo tenemos que concentrarnos en
 
 Uno de los lenguajes de marcas más populares y sencillos se llama Markdown. Es un lenguaje diseñado para ser fácil de usar, intuitivo, flexible, directo y rápido. Puedes consultar la sintaxis de Markdown en [DaringFireball](http://daringfireball.net/projects/markdown/syntax) o probar directamente en [Dillinger](http://dillinger.io), esta última web está dividida en dos columnas, en la de la izquierda puedes ver y editar directamente el texto plano en lenguaje Markdown y a la derecha verás cómo queda, la página de inicio ya cuenta con un texto que te permite aprender por imitación.
 
-Con un editor de texto plano (como Gedit) puedes ya comenzar a usar markdown. Los documentos en Markdown llevan el sufijo ".md" de tal manera que el documento puede llamarse "introduccion.md". Puedes usar el editor de textos en Markdown [ReText](http://sourceforge.net/projects/retext/) para trabajar en local, puede hacer que se divida en dos de tal manera que escribes en el panel de la izquierda y a la derecha ves cómo va quedando el texto formateado.
+Con un editor de texto plano (como Gedit) puedes ya comenzar a usar markdown. Los documentos en Markdown llevan el sufijo ".md" de tal manera que el documento puede llamarse "introduccion.md". Puedes usar el editor de textos en Markdown [ReText](http://sourceforge.net/projects/retext/) para trabajar en local, puede hacer que se divida en dos de tal manera que escribes en el panel de la izquierda y a la derecha ves cómo va quedando el texto formateado (para activar la visión doble no te olvides de ir a Edit > Live Preview. Además, ReText te permite exportar el texto automáticamente a pdf, odt o html.
 
     $ sudo apt-get install retext
 

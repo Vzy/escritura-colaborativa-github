@@ -24,6 +24,18 @@ Si tienes documentos ya escritos en Libre/Open Office o en otros formatos no te 
 
 Existen [infinidad de utilidades para usar pandoc](https://github.com/jgm/pandoc/wiki/Pandoc-Extras) que pueden facilitarte mucho la vida. Lo más normal es escribir un script (una pequeña secuencia de órdenes) para que de manera automática, tu texto en formato Markdown. 
 
+Ahora desde pandoc puedes hacer que tu archivo de markdown pueda convertirse en casi cualquier otro archivo de texto. Por ejemplo, para convertir el archivo .md en un archivo de LibreOffice ejecutamos el siguiente comando:
+
+    $ pandoc -o archivo.odt archivo.md
+    
+O, si lo queremos en formato html, simplemente:
+
+    $ pandoc -o archivo.html archivo.md
+    
+Inversamente podemos convertir otros documentos en Markdown:
+
+    $ pandoc -o archivo.md archivo.html
+
 ## Usando Markdown y gestionando bibliografías
 
 
